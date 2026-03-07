@@ -40,6 +40,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [changesets](https://github.com/changesets/changesets) - Manage versioning and changelogs for multi-package repos.
 - [release-please](https://github.com/googleapis/release-please) - Automates releases based on conventional commits with changelog generation.
 - [lerna-changelog](https://github.com/lerna/lerna-changelog) - Generate changelogs for Lerna monorepos from merged PRs.
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and changelog generation based on commit messages.
 
 ### CLI Tools
 
