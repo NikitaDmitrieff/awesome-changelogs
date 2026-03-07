@@ -37,6 +37,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [Cal.com](https://cal.com/changelog) - Open-source project with public, well-structured release notes.
 - [Neon](https://neon.tech/changelog) - Serverless Postgres changelog with detailed technical context, SQL examples, and performance benchmarks.
 - [Deno](https://deno.com/blog) - In-depth release posts covering new APIs, performance improvements, and Node.js compatibility progress.
+- [Fly.io](https://community.fly.io/c/changelog/) - Infrastructure changelog with transparent incident notes, region expansions, and runtime updates.
 
 ## Changelog Tools
 
