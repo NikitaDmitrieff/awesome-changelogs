@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.svg" width="150" alt="Awesome Changelogs logo">
+</div>
+
 # Awesome Changelogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of outstanding changelogs and tools that make release communication better.
