@@ -22,6 +22,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [Stripe API](https://stripe.com/docs/changelog) - Developer-focused changelog with breaking change warnings and code examples.
 - [Linear](https://linear.app/changelog) - Beautiful visual changelog with screenshots and categorized updates.
 - [Raycast](https://www.raycast.com/changelog) - Clean, scannable updates with clear feature descriptions.
+- [Supabase](https://supabase.com/changelog) - Weekly shipping updates with demos, architecture deep-dives, and Launch Week recaps.
 - [Clerk](https://clerk.com/changelog) - SDK-level changelog with migration guides for breaking changes.
 - [Resend](https://resend.com/changelog) - Minimal, focused changelog that highlights what matters.
 - [Vercel](https://vercel.com/changelog) - Frequent updates with visual previews and clear categorization.
