@@ -26,6 +26,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [Resend](https://resend.com/changelog) - Minimal, focused changelog that highlights what matters.
 - [Vercel](https://vercel.com/changelog) - Frequent updates with visual previews and clear categorization.
 - [PostHog](https://posthog.com/changelog) - Detailed feature announcements with context on user requests.
+- [Astro](https://astro.build/blog/) - Detailed release posts with before/after comparisons, benchmarks, and migration guides.
 - [Cal.com](https://cal.com/changelog) - Open-source project with public, well-structured release notes.
 
 ## Changelog Tools
