@@ -33,6 +33,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [PostHog](https://posthog.com/changelog) - Detailed feature announcements with context on user requests.
 - [Astro](https://astro.build/blog/) - Detailed release posts with before/after comparisons, benchmarks, and migration guides.
 - [Notion](https://www.notion.so/releases) - Comprehensive release notes with feature spotlights, platform-specific details, and interactive demos.
+- [Figma](https://www.figma.com/whats-new/) - Visual-first changelog with GIFs, side-by-side comparisons, and organized by feature area.
 - [Cal.com](https://cal.com/changelog) - Open-source project with public, well-structured release notes.
 
 ## Changelog Tools
