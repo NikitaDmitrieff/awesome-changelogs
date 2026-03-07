@@ -33,7 +33,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 ### Generators
 
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs from conventional commit messages.
-- [auto-changelog](https://github.com/cookpete/auto-changelog) - Command-line tool for generating changelogs from git tags and commit history.
+- [auto-changelog](https://github.com/cookpete/auto-changelog) - Command-line tool for generating changelogs from Git tags and commit history.
 - [git-cliff](https://github.com/orhun/git-cliff) - Highly customizable changelog generator written in Rust.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Generate changelogs from GitHub issues and pull requests.
 - [changesets](https://github.com/changesets/changesets) - Manage versioning and changelogs for multi-package repos.
