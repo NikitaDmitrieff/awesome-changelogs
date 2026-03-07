@@ -36,6 +36,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [Figma](https://www.figma.com/whats-new/) - Visual-first changelog with GIFs, side-by-side comparisons, and organized by feature area.
 - [Cal.com](https://cal.com/changelog) - Open-source project with public, well-structured release notes.
 - [Neon](https://neon.tech/changelog) - Serverless Postgres changelog with detailed technical context, SQL examples, and performance benchmarks.
+- [Deno](https://deno.com/blog) - In-depth release posts covering new APIs, performance improvements, and Node.js compatibility progress.
 
 ## Changelog Tools
 
