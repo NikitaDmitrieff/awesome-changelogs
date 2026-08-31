@@ -50,6 +50,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [changesets](https://github.com/changesets/changesets) - Manage versioning and changelogs for multi-package repos.
 - [release-please](https://github.com/googleapis/release-please) - Automates releases based on conventional commits with changelog generation.
 - [lerna-changelog](https://github.com/lerna/lerna-changelog) - Generate changelogs for Lerna monorepos from merged PRs.
+- [relnote](https://github.com/loki-inu/relnote) - Offline Python CLI and GitHub Action that turns a git range into conventional-commit release notes.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and changelog generation based on commit messages.
 
 ### CLI Tools
