@@ -58,6 +58,7 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with fragments.
 - [towncrier](https://github.com/twisted/towncrier) - Build changelogs from news fragment files (Python ecosystem).
 - [cocogitto](https://github.com/cocogitto/cocogitto) - Conventional commits toolbox with changelog generation, version bumping, and monorepo support.
+- [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action for conventional-commit GitHub release notes.
 
 ### Widgets & Embeds
 
