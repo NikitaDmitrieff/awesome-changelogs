@@ -90,8 +90,9 @@ Changelogs worth studying -- clear writing, consistent format, user-focused.
 ## Articles & Guides
 
 - [How to Write a Good Changelog](https://keepachangelog.com/en/1.1.0/) - The original manifesto for better changelogs.
-- [Why You Should Keep a Changelog](https://olivierlacan.com/posts/keeping-a-changelog/) - The motivation behind Keep a Changelog by its creator.
 - [The Art of the Changelog](https://depfu.com/blog/the-art-of-the-changelog) - Practical tips for writing changelogs that users actually read.
+- [Why You Should Keep a Changelog](https://olivierlacan.com/posts/keeping-a-changelog/) - The motivation behind Keep a Changelog by its creator.
+- [Zero additions and removals in patch text](https://gist.github.com/liubrain39/9d3b07a670bae20dca3f4fa4e9d2219b#file-wardogs-unique-line-comparison-method-md) - Original worked examples separating unique-line changes from order, repetition, gameplay meaning and dated rollout scope.
 
 ## Contributing
 
